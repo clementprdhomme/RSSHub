@@ -600,4 +600,8 @@ router.get('/qutoutiao/category/:cid', require('./routes/qutoutiao/category'));
 // Kobo releases
 router.get('/kobo/releases', require('./routes/kobo/releases'));
 
+// La Relève et la Peste
+router.get('/releve-peste/articles', require('./routes/releve-peste/articles'));
+router.get('/releve-peste/enquetes', require('./routes/releve-peste/enquetes'));
+
 module.exports = router;

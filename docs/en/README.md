@@ -345,3 +345,13 @@ Google Scholar has strict anti-crawling mechanism implemented, the demo below do
 <routeEn name="Kobo news releases" author="clementprdhomme" example="/kobo/releases" path="/kobo/releases">
 This route returns the Kobo news releases.
 </routeEn>
+
+### La Relève et La Peste
+
+<routeEn name="Articles" author="clementprdhomme" example="/releve-peste/articles" path="/releve-peste/articles">
+Articles de La Relève et Le Peste.
+</routeEn>
+
+<routeEn name="Enquêtes" author="clementprdhomme" example="/releve-peste/enquetes" path="/releve-peste/enquetes">
+Enquêtes de La Relève et Le Peste.
+</routeEn>
