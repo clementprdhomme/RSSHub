@@ -339,3 +339,9 @@ Google Scholar has strict anti-crawling mechanism implemented, the demo below do
 ### Apple
 
 <routeEn name="Exchange and Repair Extension Programs" author="metowolf HenryQW" example="/apple/exchange_repair" path="/apple/exchange_repair/:country?" :paramsDesc="['country code in apple.com URL (exception: for `United States` please use `us`), default to China `cn`']" />
+
+### Kobo
+
+<routeEn name="Kobo news releases" author="clementprdhomme" example="/kobo/releases" path="/kobo/releases">
+This route returns the Kobo news releases.
+</routeEn>
